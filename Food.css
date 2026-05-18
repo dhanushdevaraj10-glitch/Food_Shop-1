@@ -149,7 +149,7 @@ p
 .header
 {
     min-height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.3)), url(eCom\ Planets\ _\ Branding\ for\ a\ Digital\ Marketing\ Agency\ -\ Bappy\ Kumar.jpeg) no-repeat center/cover fixed;
+    background:linear-gradient(rgba(0,0,0,0.3)), url("hero-bg.jpeg") no-repeat center/cover fixed;
     position: relative;
 }
 .banner
