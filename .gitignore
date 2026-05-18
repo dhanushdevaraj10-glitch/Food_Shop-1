@@ -1,0 +1,20 @@
+# Ignore common image and media files to avoid long filename / large binary issues
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.mp4
+*.mov
+*.avi
+*.mkv
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+# Ignore any large zip or installer files
+*.zip
+*.exe
+*.msi
+# Keep repository metadata
+!.gitignore
