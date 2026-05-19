@@ -451,6 +451,7 @@ p
 {
     padding: 4rem 0;
     margin: 3rem;
+    margin-top: -60px;
 }
 .service-title
 {
@@ -580,6 +581,7 @@ span[class^="service-icon"] svg
 {
     min-height: 150px;
     resize: vertical;
+    margin-top: 10px;
 }
 .contact-form button
 {
@@ -636,7 +638,7 @@ span[class^="service-icon"] svg
 .footer-para
 {
     margin-top: 1.5rem;
-    margin-left: 160px;
+    margin-left: 110px;
 }
 #msg
 {
@@ -664,6 +666,10 @@ body::-webkit-scrollbar-thumb
 {
     transform: translateY(-1px)
 }
+.product-inventory{
+    width: -10px;
+}
+
 
 
 
@@ -780,7 +786,39 @@ body::-webkit-scrollbar-thumb
     .about-action
     {
         margin-bottom: -100px;
-        margin-top: ;
+    }
+    .product-inventory
+    {
+        width: 300px;
+    }
+    .product-inventory img 
+    {
+        width: 300px;
+        height: 300px;
+    }
+    .service
+    {
+        margin-top: -60px;
+    }
+    .product-button a
+    {
+        width: -10%;   
+    }
+    .about
+    {
+        margin-left: 33px;
+    }
+    .about-text-1
+    {
+        width: 400px;
+    }
+    .about-text
+    {
+        width: 420px;
+    }
+    .contact-box
+    {
+        width:400px;
     }
    
 }
